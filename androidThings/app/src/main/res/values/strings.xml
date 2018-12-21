@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RobotArm</string>
+    <string name="s1Text">Servo1: %1$d/%2$d</string>
+    <string name="s2Text">Servo2: %1$d/%2$d</string>
+    <string name="s3Text">Servo3: %1$d/%2$d</string>
+    <string name="s4Text">Servo4: %1$d/%2$d</string>
+    <string name="s5Text">Servo5: %1$d/%2$d</string>
+    <string name="s6Text">Servo6: %1$d/%2$d</string>
+</resources>
